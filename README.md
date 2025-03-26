@@ -1,9 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hei%20sso&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=hei%20sso&fontSize=90" />
 </div>
 <br>
 <br>
-<h3 align="center">Stack</h3>
+<h3 align="center">Studying</h3>
 <div align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">&nbsp
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white">&nbsp
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">&nbsp
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">&nbsp
 </div>
