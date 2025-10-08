@@ -13,7 +13,7 @@
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/JAVA-5382A1?style=for-the-badge&logo=JAVA&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=React&logoColor=61DAFB" />&nbsp
 </div>
@@ -34,6 +34,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=Eclipse&logoColor=white" />&nbsp
-  <!-- <img src="https://img.shields.io/badge/Visual Studio-5C2D91.svg?style=for-the-badge&logo=Visual Studio&logoColor=white" />&nbsp -->
-  <!-- <img src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?style=for-the-badge&logo=Visual Studio Code&logoColor=white" />&nbsp -->
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white" />&nbsp
 </div>
