@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=C2D1FF&section=header&text=hei%20sso&fontColor=FFFFFF&animation=fadaIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=C2D1FF&section=header&text=hei%20sso&fontColor=000000&animation=fadaIn"/>
 </div>
 <br>
 <br>
@@ -33,7 +33,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255.svg?style=for-the-badge&logo=Eclipse IDE&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=Eclipse&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91.svg?style=for-the-badge&logo=Visual Studio&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?style=for-the-badge&logo=Visual Studio Code&logoColor=white" />&nbsp
 </div>
