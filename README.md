@@ -41,11 +41,18 @@
 <br>
 
 <h3 align="center">:page_facing_up: GitHub Stats :page_facing_up:</h3>
-<div align="center" style="display: flex; gap: 10px; justify-content: center;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=hei-sso" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hei-sso" />
-  </a>
-</div>
+<table align="center">
+<tr>
+  <td align="center">
+    <a href="https://github.com/hso">
+      <img src="https://github-readme-stats.vercel.app/api?username=hei-sso" />
+    </a>
+  </td>
+  <td align="center">
+    <a href="https://github.com/hso">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hei-sso" />
+    </a>
+  </td>
+</tr>
+</table>
+
