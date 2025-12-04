@@ -40,7 +40,6 @@
   **Key Features**: Predicting likelihood of being late based on student attendance data<br>
   **Technologies**: Firebase, React, TensorFlow, Kakao API, OpenWeatherMap API...
   <br/>
-  <br/>
   
   ## 📄 GitHub Stats
   <img src="https://github-readme-stats.vercel.app/api?username=hei-sso&theme=transparent&show_icons=true" />
