@@ -3,7 +3,7 @@
 </div>
 <br>
 <br>
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h3 align="center">:sparkles: Tech Stack :sparkles:</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">&nbsp
@@ -11,7 +11,7 @@
 
 <br>
 
-<h3 align="center">📚 Studying 📚</h3>
+<h3 align="center">:books: Studying :books:</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/JAVA-5382A1?style=for-the-badge&logo=JAVA&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">&nbsp
@@ -24,7 +24,7 @@
 
 <br>
 
-<h3 align="center">🛠 Tools 🛠</h3>
+<h3 align="center">:wrench: Tools :hammer:</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
@@ -36,4 +36,16 @@
   <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=Visual%20Studio&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" />&nbsp
+</div>
+
+<br>
+
+<h3 align="center">:page_facing_up: GitHub Stats :page_facing_up:</h3>
+<div align="center" style="display: flex; gap: 10px; justify-content: center;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=hei-sso" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hei-sso" />
+  </a>
 </div>
