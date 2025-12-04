@@ -41,7 +41,7 @@
 <br>
 
 <h3 align="center">:page_facing_up: GitHub Stats :page_facing_up:</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hei-sso&theme=transparent&show_icons=true"/></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hei-sso"/></a>
+<div align="center" style="display: flex; gap: 10px; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=hei-sso&theme=transparent&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hei-sso" />
 </div>
