@@ -42,8 +42,8 @@
   <br/>
   
   ## 📄 GitHub Stats
-  <img src="https://github-readme-stats.vercel.app/api?username=hei-sso&theme=transparent&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hei-sso" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hei-sso&theme=transparent&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hei-sso&layout=compact&langs_count=8&card_width=320" />
   
 </div>
 
