@@ -35,7 +35,7 @@
   **Key Features**: Log collection, anomaly detection, alert notifications<br>
   **Technologies**: OSQuery, Python, Windows API...
   
-  #### `Late Prediction AI Site`
+  #### `GandangGandang - Late Prediction AI Site`
   > Built a web application to predict school tardiness<br>
   **Key Features**: Predicting likelihood of being late based on student attendance data<br>
   **Technologies**: Firebase, React, TensorFlow, Kakao API, OpenWeatherMap API...
