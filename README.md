@@ -40,7 +40,7 @@
   **Key Features**: Predicting likelihood of being late based on student attendance data<br>
   **Technologies**: Firebase, React, TensorFlow, Kakao API, OpenWeatherMap API...
 
-  #### `Bapple : AI Recipe Recommendation App`
+  #### `Bapple - AI Recipe Recommendation App`
   > Developed a mobile application that recommends recipes based on ingredients stored in the user’s refrigerator<br>
   **Key Features**: Ingredient management, AI-based recipe recommendation, personalized cooking suggestions<br>
   **Technologies**: React Native, Node.js, Python, FastAPI, TensorFlow, MySQL...
