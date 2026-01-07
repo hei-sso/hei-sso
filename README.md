@@ -30,17 +30,17 @@
   <br/>
   
   ## 📂 Past Projects
-  #### `Windows HIDS Development`
+  #### [`Windows HIDS Development`](https://github.com/hugmin/HIDS)
   > Developed a Windows-based Host Intrusion Detection System (HIDS) using OSQuery<br>
   **Key Features**: Log collection, anomaly detection, alert notifications<br>
   **Technologies**: OSQuery, Python, Windows API...
   
-  #### `GandangGandang - Late Prediction AI Site`
+  #### [`GandangGandang - Late Prediction AI Site`](https://github.com/hei-sso/Gandang)
   > Built a web application to predict school tardiness<br>
   **Key Features**: Predicting likelihood of being late based on student attendance data<br>
   **Technologies**: Firebase, React, TensorFlow, Kakao API, OpenWeatherMap API...
 
-  #### `Bapple - AI Recipe Recommendation App`
+  #### [`Bapple - AI Recipe Recommendation App`](https://github.com/hei-sso/Bapple)
   > Developed a mobile application that recommends recipes based on ingredients stored in the user’s refrigerator<br>
   **Key Features**: Ingredient management, AI-based recipe recommendation, personalized cooking suggestions<br>
   **Technologies**: React Native, Node.js, Python, FastAPI, TensorFlow, MySQL...
