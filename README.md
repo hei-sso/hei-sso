@@ -34,6 +34,12 @@
   > Built a platform where users set goals, stake points, and verify completion through AI image analysis to foster habit formation<br>
   **Key Features**: Goal & group management, point staking/refund system, AI-powered image verification<br>
   **Technologies**: React Native, Firebase (Auth, Firestore, Storage, Cloud Functions), TensorFlow.js, Reverse Image Search API...
+
+  #### [`Real Pick - AI-based Review Credibility Analysis`](https://github.com/hei-sso/RealPick)
+  > ExtensionDeveloped a Chrome extension that identifies fake or promotional reviews and provides reliable product insights<br>
+  **Key Features**: AI-powered review credibility scoring, automated summary of pros and cons, detection of promotional keywords/patterns<br>
+  **Technologies**: React, Chrome Extension API (Manifest V3), Node.js, MySQL, OpenAI API, Railway...
+  
   <br/>
   
   ## 📁 Past Projects
