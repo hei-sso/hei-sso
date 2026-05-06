@@ -28,8 +28,16 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" />
   <br/>
   <br/>
+
+  ## 📂 Main Projects
+  #### [`DoOrPay - AI Behavior Contract Platform`](https://github.com/hei-sso/DoOrPay)
+  > Built a platform where users set goals, stake points, and verify completion through AI image analysis to foster habit formation<br>
+  **Key Features**: Goal & group management, point staking/refund system, AI-powered image verification<br>
+  **Technologies**: React Native, Firebase (Auth, Firestore, Storage, Cloud Functions), TensorFlow.js, Reverse Image Search API...
+  <br/>
+  <br/>
   
-  ## 📂 Past Projects
+  ## 📁 Past Projects
   #### [`Windows HIDS Development`](https://github.com/hugmin/HIDS)
   > Developed a Windows-based Host Intrusion Detection System (HIDS) using OSQuery<br>
   **Key Features**: Log collection, anomaly detection, alert notifications<br>
