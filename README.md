@@ -29,7 +29,7 @@
   <br/>
   <br/>
 
-  ## 📂 Main Projects
+  ## 📂 Current Projects
   #### [`DoOrPay - AI Behavior Contract Platform`](https://github.com/hei-sso/DoOrPay)
   > Built a platform where users set goals, stake points, and verify completion through AI image analysis to foster habit formation<br>
   **Key Features**: Goal & group management, point staking/refund system, AI-powered image verification<br>
