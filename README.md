@@ -37,7 +37,7 @@
 
   #### [`Real Pick - AI-based Review Credibility Analysis`](https://github.com/hei-sso/RealPick)
   > ExtensionDeveloped a Chrome extension that identifies fake or promotional reviews and provides reliable product insights<br>
-  **Key Features**: AI-powered review credibility scoring, automated summary of pros and cons, detection of promotional keywords/patterns<br>
+  **Key Features**: AI-powered review credibility scoring, automated summary, detection of promotional keywords/patterns<br>
   **Technologies**: React, Chrome Extension API (Manifest V3), Node.js, MySQL, OpenAI API, Railway...
   
   <br/>
