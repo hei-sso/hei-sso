@@ -35,7 +35,6 @@
   **Key Features**: Goal & group management, point staking/refund system, AI-powered image verification<br>
   **Technologies**: React Native, Firebase (Auth, Firestore, Storage, Cloud Functions), TensorFlow.js, Reverse Image Search API...
   <br/>
-  <br/>
   
   ## 📁 Past Projects
   #### [`Windows HIDS Development`](https://github.com/hugmin/HIDS)
